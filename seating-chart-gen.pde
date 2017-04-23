@@ -42,8 +42,8 @@ String[] namesToSwap = new String[2];
 String[] lNamesToSwap = new String[2];
 Table layout;
 Table export;
-//String layoutFile = "mcsorely.csv";
-String layoutFile = "pommier.csv";
+String layoutFile = "mcsorely.csv";
+//String layoutFile = "pommier.csv";
 
 void setup() {
   background(25);
