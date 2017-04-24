@@ -6,4 +6,4 @@ layout of your classroom or press m to load preset .csv file containing desk loc
 names in alphabetical and reverse alphabetical order, r will randomize, and s will save the current layout as a .png in the
 sketch folder. Select two desks to swap their students, or press enter to edit the selected desk's name value.
 ![Desk configuration screenshot](/Examples/configure.png)
-![Generated Seating Chart Example](/Examples/seatingChart1641.png)
+![Generated Seating Chart Example](/Examples/seatingChart1642.png)
